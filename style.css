@@ -333,4 +333,16 @@ h1:hover{
 }
 
     
+@media screen and (max-width:500px) {
+    .container2 .points{
+    
+        position: absolute;
+        right:300px;
+
+    }
+
+
+    
+}
+    
 }
